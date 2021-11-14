@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "Alfie",
+    "Type": "American Bulldog",
+    "Gender": "Male",
+    "Age": 3,
+    "Size": "Medium"
+  },
+  {
+    "Name": "Max",
+    "Type": "Beagle",
+    "Gender": "Male",
+    "Age": 7,
+    "Size": "Medium"
+  },
+  {
+    "Name": "Daisy",
+    "Type": "Pekingese",
+    "Gender": "Female",
+    "Age": 5,
+    "Size": "Small"
+  },
+  {
+    "Name": "Oscar",
+    "Type": "Mix",
+    "Gender": "Female",
+    "Age": 3,
+    "Size": "Small"
+  },
+  {
+    "Name": "Rosie",
+    "Type": "Mix",
+    "Gender": "Female",
+    "Age": 10,
+    "Size": "Medium"
+  },
+  {
+    "Name": "Snow",
+    "Type": "Husky",
+    "Gender": "Male",
+    "Age": 6,
+    "Size": "Big"
+  },
+  {
+    "Name": "Jane",
+    "Type": "Labrador",
+    "Gender": "Female",
+    "Age": 8,
+    "Size": "Big"
+  }
+]

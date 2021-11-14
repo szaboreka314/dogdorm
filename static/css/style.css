@@ -1,0 +1,20 @@
+body{
+    background-image: url('bg.jpg');
+    background-repeat: repeat-y;
+    background-position: 0% 0%;
+    background-size: 100% 100%;
+    width: 58%;
+    position: center;
+    margin: auto;
+}
+
+cica{
+color: #52ac70;
+}
+
+h1 {
+    border: 2px #eee solid;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+}
